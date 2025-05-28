@@ -27,7 +27,7 @@ SEIR-model/
 └── README.md      # Project description and documentation
 ```
 
-## 🧪 Usage
+## Usage
 
 To run the model and reproduce the results:
 
