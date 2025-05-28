@@ -39,6 +39,6 @@ To run the model and reproduce the results:
 2. Navigate to the `codes/` directory and run the simulation scripts.
 3. Review the `report/` for an in-depth explanation and findings.
 
-> This project is a part of the M2 CompuPhys masters program at [UBFC](https://www.ubfc.fr/en/) .
-"""
+> This project is a part of the M2 CompuPhys masters program at [UBFC](https://www.ubfc.fr/en/).
+
  
